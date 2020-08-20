@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="web" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="http://thejarasanjalee.000webhostapp.com" />][website]
+[<a href="http://thejarasanjalee.000webhostapp.com" <img align="left" alt="web" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>][]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/TRasanjalee" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  href="https://www.linkedin.com/in/theja-rasanjalee-b66302173" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com" />][instagram]
